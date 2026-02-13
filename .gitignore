@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Compiled source
+Binaries/
+Build/
+Intermediate/
+
+# Saved files
+Saved/
+
+# Derived data cache
+DerivedDataCache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
