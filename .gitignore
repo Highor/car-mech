@@ -1,22 +1,100 @@
+# =========================================
+# Unreal Engine
+# =========================================
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore generated project files
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# =========================================
 # Visual Studio
+# =========================================
+
 .vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.opensdf
+*.sdf
+*.cachefile
 *.VC.db
 *.VC.opendb
 
-# Compiled source
-Binaries/
-Build/
-Intermediate/
+# Build results
+Debug/
+DebugGame/
+Development/
+Shipping/
+Test/
 
-# Saved files
-Saved/
-
-# Derived data cache
-DerivedDataCache/
-
-# Logs
+*.obj
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.lib
+*.exp
+*.dll
+*.exe
 *.log
+*.tlog
 
-# OS files
+# =========================================
+# Rider / JetBrains (optioneel)
+# =========================================
+
+.idea/
+*.sln.iml
+
+# =========================================
+# Mac
+# =========================================
+
 .DS_Store
+
+# =========================================
+# Windows
+# =========================================
+
 Thumbs.db
+
+# =========================================
+# Unreal auto-generated files
+# =========================================
+
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.opensdf
+*.VC.db
+
+# =========================================
+# Crash & log files
+# =========================================
+
+*.log
+*.dmp
+
+# =========================================
+# Temporary files
+# =========================================
+
+*.tmp
+*.temp
+*.bak
+
+# =========================================
+# Ignore packaged builds
+# =========================================
+
+PackagedBuilds/
