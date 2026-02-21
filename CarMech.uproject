@@ -26,16 +26,8 @@
     {
       "Name": "OnlineSubsystemSteam",
       "Enabled": true
-    },
-    {
-      "Name": "VisualStudioTools",
-      "Enabled": false,
-      "SupportedTargetPlatforms": [
-        "Win64"
-      ]
     }
   ],
-  "TargetPlatforms": [],
   "AdditionalRootDirectories": [],
   "AdditionalPluginDirectories": [],
   "EpicSampleNameHash": ""
