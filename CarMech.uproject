@@ -28,6 +28,7 @@
       "Enabled": true
     }
   ],
+  "TargetPlatforms": [],
   "AdditionalRootDirectories": [],
   "AdditionalPluginDirectories": [],
   "EpicSampleNameHash": ""
